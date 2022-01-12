@@ -1,0 +1,6 @@
+cov6d
+covmatrix
+.vscode/
+.empty
+**/__pycache__/
+stuff/
