@@ -4,7 +4,9 @@ This work introduces a new algorithm based on multilinear algebra for feature ex
 
 * Research article IEEE Access (Open Source): [https://ieeexplore.ieee.org/document/9416639](https://ieeexplore.ieee.org/document/9416639)
 * GitLab version: [https://gitlab.com/ricciclope/tensor](https://gitlab.com/ricciclope/tensor)
+* For more information: [https://zosov.github.io/research/tensor_decomposition/](https://zosov.github.io/research/tensor_decomposition/)
 
+![](./assets/cov_ten.png)
 
 ## Release
 
