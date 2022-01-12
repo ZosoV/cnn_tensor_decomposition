@@ -2,7 +2,7 @@
 
 This work introduces a new algorithm based on multilinear algebra for feature extraction, which later is plugged into a CNN to perform classification. During a single feed-forward step, we generate the kernels for a CNN architecture by computing the covariance tensor of the data and factorizing it by Tucker decomposition.
 
-* Research article IEEE Access (Open Source): [https://ieeexplore.ieee.org/document/9416639](https://ieeexplore.ieee.org/document/9416639)
+* Research article IEEE Access (Open Access): [https://ieeexplore.ieee.org/document/9416639](https://ieeexplore.ieee.org/document/9416639)
 * GitLab version: [https://gitlab.com/ricciclope/tensor](https://gitlab.com/ricciclope/tensor)
 * For more information: [https://zosov.github.io/research/tensor_decomposition/](https://zosov.github.io/research/tensor_decomposition/)
 
