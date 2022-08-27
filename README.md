@@ -1,12 +1,13 @@
 # Covariance Tensor for Convolutional Neural Network
 
+[**Project page**](https://zosov.github.io/portfolio/tensor_decomposition/)
+
 This work introduces a new algorithm based on multilinear algebra for feature extraction, which later is plugged into a CNN to perform classification. During a single feed-forward step, we generate the kernels for a CNN architecture by computing the covariance tensor of the data and factorizing it by Tucker decomposition.
 
 * [Research article IEEE Access (Open Access)](https://ieeexplore.ieee.org/document/9416639)
 * [Medium Blog](https://oscar-guarnizo.medium.com/review-covariance-tensor-for-convolutional-neural-networks-77c119f2a225)
 * [Research poster - EEML 2022](https://www.researchgate.net/publication/361880577_Poster_Convolutional_Neural_Network_Feature_Extraction_Using_Covariance_Tensor_Decomposition)
 * [GitLab version](https://gitlab.com/ricciclope/tensor)
-* [Portfolio](https://zosov.github.io/portfolio/tensor_decomposition/)
 
 ![](./assets/cov_ten.png)
 
